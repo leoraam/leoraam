@@ -5,7 +5,7 @@
 
 - 🔭 I’m working on [MeloMenu](www.melomenu.online)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [troopl.com/leoraam](troopl.com/leoraam)
 
