@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **leoraam@mac.com**
 
-- 📄 Know about my experiences linkedin.com/in/aleonardoa
+- 📄 Know about my experiences www.linkedin.com/in/aleonardoa
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
