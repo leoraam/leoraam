@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leoraam" alt="leoraam" /></a> </p>
 
-- 🔭 I’m currently working on [MeloMenu](https://github.com/leoraam/leoraam/blob/main/www.melomenu.online)
+- 🔭 I’m currently working on [MeloMenu](https://www.melomenu.online)
 
 - 🌱 I’m currently learning **ReactJS, JavaScript**
 
-- 👨‍💻 All of my projects are available at (www.troopl.com/leoraam)
+- 👨‍💻 All of my projects are available at www.troopl.com/leoraam
 
 - 📫 How to reach me **leoraam@mac.com**
 
-- 📄 Know about my experiences [linkedin.com/in/aleonardoa]
+- 📄 Know about my experiences linkedin.com/in/aleonardoa
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
