@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leoraam" alt="leoraam" /></a> </p>
 
-- 🔭 I’m currently working on [MeloMenu](https://www.melomenu.online)
+- 🔭 I’m currently working on www.melomenu.online
 
 - 🌱 I’m currently learning **ReactJS, JavaScript**
 
