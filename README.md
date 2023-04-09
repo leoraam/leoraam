@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **ReactJS, JavaScript**
 
-- 👨‍💻 All of my projects are available at [www.troopl.com/leoraam](www.troopl.com/leoraam)
+- 👨‍💻 All of my projects are available at (www.troopl.com/leoraam)
 
 - 📫 How to reach me **leoraam@mac.com**
 
-- 📄 Know about my experiences [linkedin.com/in/aleonardoa](linkedin.com/in/aleonardoa)
+- 📄 Know about my experiences [linkedin.com/in/aleonardoa]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
